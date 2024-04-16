@@ -1,0 +1,2 @@
+[2024-04-16 10:44:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/tapeandjointer
+[2024-04-16 11:13:13] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/tapeandjointer
